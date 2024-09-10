@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QhWY2vDA2exdXDl1wKv1wIjhQI6zniuVqAP+CwsFz+4=",
+  "Source": "WakeMapApi",
+  "BasePath": "_content/WakeMapApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
