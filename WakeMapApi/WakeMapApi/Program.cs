@@ -1,4 +1,5 @@
 using Application.Services;
+using Domain.Interfaces;
 using Infraestructure;
 using Microsoft.EntityFrameworkCore;
 
@@ -11,11 +12,12 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<ApplicationContext>(dbContextOptions => dbContextOptions.UseSqlite(
-builder.Configuration["ConnectionStrings:DBConnectionString"]));
+builder.Services.AddDbContext<ApplicationContext>(options => options.UseSqlite(
+builder.Configuration["ConnectionStrings:DBConnectionString"], b => b.MigrationsAssembly("WakeMapApi")));
 
 
 builder.Services.AddSingleton<UserService>();
+builder.Services.AddSingleton<IUserRepository>();
 
 
 var app = builder.Build();

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xWY8ZioPeNO/aR3DUisFpkvvOpQ6QjCej5Tw/xoqTg3VfAQKhAKZpRGPde0BNbr3cmTfrmlOumTOzOwQOvxsDA==",
+  "dgSpecHash": "okLofCyIfqalQz9kyMY+Rm40Uw6BovZiibIehOdRogVQJTCv3AHXx4X+EnguxM//XMkQqItCHEFFfIZAxqb7aA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMapApi\\WakeMapApi\\WakeMapApi.csproj",
+  "projectFilePath": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMap\\WakeMapApi\\WakeMapApi\\WakeMapApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bsolohaga\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\bsolohaga\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.33\\microsoft.data.sqlite.core.6.0.33.nupkg.sha512",
