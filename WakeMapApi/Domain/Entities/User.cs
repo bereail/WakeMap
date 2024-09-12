@@ -13,9 +13,19 @@ namespace Domain.Entities
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
-        public string Name { get; set; }
+
+        public string Username { get; set; }
+
         public string Email { get; set; }
 
         public string Password { get; set; }
+
+        public int Tel { get; set; }
+
+        public string UserSettings { get; set; }
+
+        public int Status { get; set; }
+
+        public ICollection<Alarm> Alarms { get; set; }
     }
 }

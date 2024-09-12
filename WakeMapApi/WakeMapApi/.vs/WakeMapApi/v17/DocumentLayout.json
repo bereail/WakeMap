@@ -3,6 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMap\\WakeMapApi\\WakeMapApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D818C7AB-F4CC-4F71-9FDD-F6476907A46D}|..\\Domain\\Domain.csproj|c:\\users\\bsolohaga\\desktop\\bere\\wakemap\\wakemapapi\\domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D818C7AB-F4CC-4F71-9FDD-F6476907A46D}|..\\Domain\\Domain.csproj|c:\\users\\bsolohaga\\desktop\\bere\\wakemap\\wakemapapi\\domain\\entities\\alarmhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D818C7AB-F4CC-4F71-9FDD-F6476907A46D}|..\\Domain\\Domain.csproj|c:\\users\\bsolohaga\\desktop\\bere\\wakemap\\wakemapapi\\domain\\entities\\activationcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D818C7AB-F4CC-4F71-9FDD-F6476907A46D}|..\\Domain\\Domain.csproj|c:\\users\\bsolohaga\\desktop\\bere\\wakemap\\wakemapapi\\domain\\entities\\gps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D818C7AB-F4CC-4F71-9FDD-F6476907A46D}|..\\Domain\\Domain.csproj|c:\\users\\bsolohaga\\desktop\\bere\\wakemap\\wakemapapi\\domain\\entities\\alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D818C7AB-F4CC-4F71-9FDD-F6476907A46D}|..\\Domain\\Domain.csproj|c:\\users\\bsolohaga\\desktop\\bere\\wakemap\\wakemapapi\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3EC29C0C-46F8-4124-9B40-19857F1264C8}|WakeMapApi.csproj|c:\\users\\bsolohaga\\desktop\\bere\\wakemap\\wakemapapi\\wakemapapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EC29C0C-46F8-4124-9B40-19857F1264C8}|WakeMapApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,10 +36,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DC28350-DB86-4B0D-AD36-1D65463E7A7D}|..\\Infraestructure\\Infraestructure.csproj|c:\\users\\bsolohaga\\desktop\\bere\\wakemap\\wakemapapi\\infraestructure\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMap\\WakeMapApi\\WakeMapApi\\Migrations\\20240911112635_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240911112635_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMapApi\\Infraestructure\\ApplicationContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -52,6 +66,10 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMapApi\\Application\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC29C0C-46F8-4124-9B40-19857F1264C8}|WakeMapApi.csproj|c:\\users\\bsolohaga\\desktop\\bere\\wakemap\\wakemapapi\\wakemapapi\\migrations\\20240911112635_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC29C0C-46F8-4124-9B40-19857F1264C8}|WakeMapApi.csproj|solutionrelative:migrations\\20240911112635_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,11 +79,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMap\\WakeMapApi\\Domain\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Notification.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMap\\WakeMapApi\\Domain\\Entities\\Notification.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:52:08.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AlarmHistory.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMap\\WakeMapApi\\Domain\\Entities\\AlarmHistory.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\AlarmHistory.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMap\\WakeMapApi\\Domain\\Entities\\AlarmHistory.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\AlarmHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:48:22.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActivationCondition.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMap\\WakeMapApi\\Domain\\Entities\\ActivationCondition.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\ActivationCondition.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMap\\WakeMapApi\\Domain\\Entities\\ActivationCondition.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\ActivationCondition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:45:52.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gps.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMap\\WakeMapApi\\Domain\\Entities\\Gps.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Gps.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMap\\WakeMapApi\\Domain\\Entities\\Gps.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Gps.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:42:35.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Alarm.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMap\\WakeMapApi\\Domain\\Entities\\Alarm.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Alarm.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMap\\WakeMapApi\\Domain\\Entities\\Alarm.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Alarm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:09:02.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMap\\WakeMapApi\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMap\\WakeMapApi\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:59:09.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMap\\WakeMapApi\\Infraestructure\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "..\\Infraestructure\\Repositories\\UserRepository.cs",
@@ -73,12 +169,11 @@
               "RelativeToolTip": "..\\Infraestructure\\Repositories\\UserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T11:55:36.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T11:55:36.071Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMap\\WakeMapApi\\Domain\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\IUserRepository.cs",
@@ -86,12 +181,11 @@
               "RelativeToolTip": "..\\Domain\\Interfaces\\IUserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T11:54:00.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T11:54:00.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "ApplicationContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMap\\WakeMapApi\\WakeMapApi\\Migrations\\ApplicationContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\ApplicationContextModelSnapshot.cs",
@@ -99,12 +193,11 @@
               "RelativeToolTip": "Migrations\\ApplicationContextModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T11:27:06.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T11:27:06.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMap\\WakeMapApi\\WakeMapApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -114,10 +207,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T12:43:21.049Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Bookmark",
@@ -137,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "ApplicationContext.cs",
               "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMap\\WakeMapApi\\Infraestructure\\ApplicationContext.cs",
               "RelativeDocumentMoniker": "..\\Infraestructure\\ApplicationContext.cs",
@@ -145,12 +234,11 @@
               "RelativeToolTip": "..\\Infraestructure\\ApplicationContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T11:20:33.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T11:20:33.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 20,
               "Title": "20240911112635_InitialMigration.cs",
               "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMap\\WakeMapApi\\WakeMapApi\\Migrations\\20240911112635_InitialMigration.cs",
               "RelativeDocumentMoniker": "Migrations\\20240911112635_InitialMigration.cs",
@@ -158,12 +246,11 @@
               "RelativeToolTip": "Migrations\\20240911112635_InitialMigration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T11:26:36.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T11:26:36.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "WakeMapApi.csproj",
               "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMap\\WakeMapApi\\WakeMapApi\\WakeMapApi.csproj",
               "RelativeDocumentMoniker": "WakeMapApi.csproj",
@@ -175,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "ApplicationContext.cs",
               "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMapApi\\Infraestructure\\ApplicationContext.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\WakeMapApi\\Infraestructure\\ApplicationContext.cs",
@@ -185,12 +272,8 @@
               "WhenOpened": "2024-09-10T13:08:20.74Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Infraestructure.csproj",
               "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMapApi\\Infraestructure\\Infraestructure.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\WakeMapApi\\Infraestructure\\Infraestructure.csproj",
@@ -202,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMapApi\\Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\WakeMapApi\\Domain\\Entities\\User.cs",
@@ -214,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMap\\WakeMapApi\\WakeMapApi\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -226,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMapApi\\Infraestructure\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\WakeMapApi\\Infraestructure\\Repositories\\UserRepository.cs",
@@ -238,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Application.csproj",
               "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMapApi\\Application\\Application.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\WakeMapApi\\Application\\Application.csproj",
@@ -250,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMapApi\\Application\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\WakeMapApi\\Application\\Services\\UserService.cs",
@@ -262,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\WakeMap\\WakeMapApi\\WakeMapApi\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
@@ -271,6 +354,14 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T12:28:38.179Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         },
