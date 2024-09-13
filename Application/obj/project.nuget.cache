@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "W+J3Cv2FD+a6iOkLywdJs2gGDsh/JCK6w4y3OxihL8sOHYkkUp30oX2IvUVFq/yQKD/1/UVI5wFMP1Ia9YeeqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrador\\Desktop\\Bere\\WakeMap\\WakeMapApi\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
